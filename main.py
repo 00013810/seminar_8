@@ -16,6 +16,10 @@ print(f'Result is equal: {equal}')
 print(f'Result is equal: {not_equal}')
 
 
+# Task_2 (advance)
+
+
+
 
 
 
