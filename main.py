@@ -15,10 +15,3 @@ print(f'Result is equal: {less_equal}')
 print(f'Result is equal: {equal}')
 print(f'Result is equal: {not_equal}')
 
-
-# Task_2 (advance)
-def get_longest_word(list_of_words):
-    named_list_of_word = input(('', ''))
-    print(f'The long word in list is {max(named_list_of_word)} and {len(named_list_of_word)}')
-
-# get_longest_word()
